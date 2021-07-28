@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+The project from Mobx State Tree tutorial by Cory McAboy, using functional components.
+
+
+https://www.youtube.com/watch?v=uBymH1JbKHs&list=PLucG_ap4Oxzj5TKvdOKc7W10NLMMg319A
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
